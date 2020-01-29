@@ -1,6 +1,7 @@
 //client Id from spotify goes here as a string
 const clientId = '';
-const redirectUri = 'http://localhost:3000/'; 
+//your redirect Uri to your server goes here
+const redirectUri = ''; 
 
 let accessToken;
 
